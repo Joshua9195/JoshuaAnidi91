@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua 👋
+# Hi there, I'm Joshua Anidi👋
 
 Welcome to my GitHub profile!
 
@@ -24,6 +24,8 @@ I am a Business & Data Analyst with a passion for uncovering insights from data 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/joshuaanidi)
 - [Facebook](https://www.facebook.com/share/15FviwmG6jP/?mibextid=wwXIfr)
+- hoshanidi26@gmail.com
+  
 
 ## ⚽ Fun Fact
 When I’m not diving into data, I love to play football!
