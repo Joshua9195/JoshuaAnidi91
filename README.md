@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 👨‍💻 About Me
-I am a Business & Data Analyst with a passion for uncovering insights from data and communicating impactful stories. Currently, I’m upskilling in Python, SQL, Excel, and Power BI, and I use GitHub to explore data projects and document my learning journey.
+I am a Data Analyst transforming raw data into meaningful insignts by integrating the DATA lifecycle i.e Data collection, storage, processing, Analysiong, Visualizing and interpreting. I am proficient in my technical skills (SQL, Excel, Power BI), Analytical skills and communication skills. This repository serves as a portfolio to explore data projects and document my learning journey.
 
 ## 💡 What I Do
 - Gather & organize data from various sources
@@ -23,7 +23,6 @@ I am a Business & Data Analyst with a passion for uncovering insights from data 
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/joshuaanidi)
-- [Facebook](https://www.facebook.com/share/15FviwmG6jP/?mibextid=wwXIfr)
 - hoshanidi26@gmail.com
   
 
